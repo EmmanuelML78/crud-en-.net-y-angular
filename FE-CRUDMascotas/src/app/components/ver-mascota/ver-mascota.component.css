@@ -1,0 +1,15 @@
+.card {
+  margin-top: 5px;
+  text-align: center;
+}
+.container {
+  margin: 0 20%;
+}
+.mdc-card__actions {
+  display: block;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 52px;
+  padding: 8px;
+}
